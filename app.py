@@ -2,7 +2,7 @@ import streamlit as st
 from groq import Groq
 
 # Initialize the Groq client with your API key
-client = Groq(api_key="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")
+client = Groq(api_key="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")
 
 # Define the system message for the model
 system_message = {
